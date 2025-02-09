@@ -27,6 +27,11 @@ h3 {
   color: var(--highlight);
 }
 
+.section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 /* Navbar */
 #navbar {
   background-color: var(--primary-color);
@@ -35,6 +40,12 @@ h3 {
 
 #navbar .logo {
   width: 30px;
+}
+
+/* Header */
+
+#header .lead {
+  font-family: var(--secondary-font);
 }
 
 /* Grid visualisation CSS for testing */
