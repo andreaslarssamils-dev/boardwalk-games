@@ -41,6 +41,10 @@ h2 {
   margin-bottom: 2rem;
 }
 
+.border-none {
+  border: none;
+}
+
 /* Navbar */
 #navbar {
   background-color: var(--primary-color);
