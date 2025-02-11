@@ -152,6 +152,12 @@ h2 {
   background-color: transparent;
 }
 
+/* Reserve a game section */
+
+#reserve h2 {
+  text-transform: uppercase;
+}
+
 /* Grid visualisation CSS for testing */
 
 /* .container,
