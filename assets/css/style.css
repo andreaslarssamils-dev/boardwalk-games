@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap");
 
 /* CSS Variables */
 :root {
-  --primary-font: 'Inter', sans-serif;
-  --secondary-font: 'Macondo', cursive;
+  --primary-font: "Inter", sans-serif;
+  --secondary-font: "Macondo", cursive;
   --primary-color: #3a2620; /* dark brown */
   --secondary-color: #aa9581; /* light brown */
   --highlight: #416a8e; /* blue */
@@ -14,6 +14,7 @@
 
 body {
   font-family: var(--primary-font);
+  padding-top: 57.15px;
 }
 
 h1,
